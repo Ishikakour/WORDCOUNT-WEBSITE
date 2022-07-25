@@ -1,0 +1,25 @@
+<html>
+    <head><h1>THERE ARE TOTAL   {{count}} WORDS </h1>
+
+        
+         <h2>YOUR TEXT </h2> 
+         <br />
+         {{fulltext}}
+           
+
+         <h1>count of words</h1>
+         {% for word, counttotal in sortedword %}
+         {{word}}-{{counttotal}}
+         <br />
+         {% endfor %}
+         <br />
+         <form action ="{% url 'about' %}" >
+            <input type="submit" value="ABOUT"/>
+
+        </form>  
+        <br />
+        <a href="{% url 'home' %}"> BACK </a>
+       
+    </head>
+
+</html>
