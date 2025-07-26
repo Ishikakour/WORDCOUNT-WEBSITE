@@ -18,6 +18,6 @@ This is a simple web application built using **Python** and the **Django** web f
 
 ## 💻 Technologies Used
 
-- **Python 3.x**
-- **Django 4.x**
+- **Python **
+- **Django**
 - **HTML5 & CSS3** (for front-end)
