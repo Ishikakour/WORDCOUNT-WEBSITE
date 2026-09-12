@@ -4,15 +4,15 @@ This is a simple web application built using **Python** and the **Django** web f
 
 ---
 
-## 🚀 Features
+##  Features
 
-- ✅ Input text via a clean, user-friendly web form
-- 📊 Displays:
+- Input text via a clean, user-friendly web form
+- Displays:
   - Total number of words
   - Total number of characters
   - Most frequent words (optional)
-- ⚡ Real-time result rendering using Django views
-- 🔒 Lightweight and beginner-friendly
+- Real-time result rendering using Django views
+- Lightweight and beginner-friendly
 
 ---
 
